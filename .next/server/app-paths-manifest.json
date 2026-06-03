@@ -1,0 +1,10 @@
+{
+  "/api/leads/route": "app/api/leads/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(landing)/page": "app/(landing)/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/leads/page": "app/admin/leads/page.js",
+  "/admin/analytics/page": "app/admin/analytics/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js"
+}
