@@ -2,3 +2,6 @@
 .env
 .env.local
 generated/
+node_modules
+.next
+.DS_Store
